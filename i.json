@@ -1,11 +1,12 @@
 {
-	"pr": "https://github.com/pulls",
-	"hh": "https://www.facebook.com/groups/AvalonatMissionBayNeighbors",
-	"rent": "https://www.avalonaccess.com/Dashboard",
-	"fixme": "https://www.avalonaccess.com/ServiceRequest/CreateServiceRequest",
-	"fb/b": "https://www.facebook.com/events/birthdays",
-	"ext": "chrome://extensions/",
-	"tout": "https://notes.vikramtiwari.com/all/programming-languages/js-and-node.js",
-	"notes": "https://notes.vikramtiwari.com/",
-	"books": "https://notes.vikramtiwari.com/all/books"
+  "books": "https://notes.vikramtiwari.com/all/books",
+  "fb": "https://www.facebook.com/events/birthdays",
+  "fixme": "https://www.avalonaccess.com/ServiceRequest/CreateServiceRequest",
+  "hh": "https://www.facebook.com/groups/AvalonatMissionBayNeighbors",
+  "jira": "https://omniinc.atlassian.net/secure/RapidBoard.jspa?rapidView=2&assignee=5e332eb03bdc3a0ca55f7dbb",
+  "notes": "https://notes.vikramtiwari.com/",
+  "pr": "https://github.com/pulls",
+  "rent": "https://www.avalonaccess.com/Dashboard",
+  "retro": "https://omniinc.atlassian.net/wiki/spaces/CORE/pages/7798808/Retrospectives",
+  "tout": "https://notes.vikramtiwari.com/all/programming-languages/js-and-node.js"
 }
